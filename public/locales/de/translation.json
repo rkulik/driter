@@ -1,0 +1,32 @@
+{
+  "emptySnippets": "Textbausteine hierhin ziehen!",
+  "removeSnippet": "Textbaustein entfernen",
+  "copyTextToClipboard": "Text in Zwischenablage kopieren",
+  "switchToGerman": "Auf Deutsch wechseln",
+  "switchToEnglish": "Auf Englisch wechseln",
+  "by": "bei",
+  "allRightsReserved": "Alle Rechte vorbehalten",
+  "copied": "Kopiert!",
+  "categories": [
+    {
+      "label": "Anrede",
+      "snippets": [
+        "Sehr geehrte Damen und Herren,",
+        "Hallo ...,"
+      ]
+    },
+    {
+      "label": "Hauptteil",
+      "snippets": [
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta harum maiores aspernatur rem nisi consectetur repellat sapiente laudantium ipsam. At molestias eaque repellat aspernatur cum mollitia laborum nostrum labore corporis."
+      ]
+    },
+    {
+      "label": "Grußformel",
+      "snippets": [
+        "Mit freundlichen Grüßen",
+        "Viele Grüße"
+      ]
+    }
+  ]
+}

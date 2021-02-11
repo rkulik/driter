@@ -1,0 +1,32 @@
+{
+  "emptySnippets": "Drag snippets here!",
+  "removeSnippet": "Remove snippet",
+  "copyTextToClipboard": "Copy text to clipboard",
+  "switchToGerman": "Switch to German",
+  "switchToEnglish": "Switch to English",
+  "by": "by",
+  "allRightsReserved": "All rights reserved",
+  "copied": "Copied!",
+  "categories": [
+    {
+      "label": "Salutation",
+      "snippets": [
+        "Dear Sir or Madam,",
+        "Hi ...,"
+      ]
+    },
+    {
+      "label": "Main part",
+      "snippets": [
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta harum maiores aspernatur rem nisi consectetur repellat sapiente laudantium ipsam. At molestias eaque repellat aspernatur cum mollitia laborum nostrum labore corporis."
+      ]
+    },
+    {
+      "label": "Complimentary close",
+      "snippets": [
+        "Best regards",
+        "Yours sincerely"
+      ]
+    }
+  ]
+}
